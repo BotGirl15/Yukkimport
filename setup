@@ -108,7 +108,7 @@ sleep 4
 clear
 
 pprint "\nEnter Your Values Below\n\n\n"
-pprint "API ID: "; color_reset;  api_id = "10220419"
+pprint "API ID: "; color_reset; read api_id
 pprint "\nAPI HASH: "; color_reset;  api_hash = "655aa04cda3d3350992512b4607da17d"
 pprint "\nBOT TOKEN: "; color_reset;  bot_token = "5327660504:AAHePGOMJNjcdMxITDZ001RCkqVHz1krbhk"
 pprint "\nMONGO DB URI: "; color_reset;  mongo_db = "mongodb+srv://svbbot11:svbbot11@cluster0.502g3.mongodb.net/Cluster0?retryWrites=true&w=majority"
