@@ -110,7 +110,7 @@ clear
 pprint "\nEnter Your Values Below\n\n\n"
 pprint "API ID: "; color_reset; read api_id
 pprint "\nAPI HASH: "; color_reset;  api_hash = "655aa04cda3d3350992512b4607da17d"
-pprint "\nBOT TOKEN: "; color_reset;  bot_token = "5558413169:AAEZ4CYsON9z1YH3fmsHv2O0JEucHbC0rzI"
+pprint "\nBOT TOKEN: "; color_reset;  bot_token = "5327660504:AAHePGOMJNjcdMxITDZ001RCkqVHz1krbhk"
 pprint "\nMONGO DB URI: "; color_reset;  mongo_db = "mongodb+srv://svbbot11:svbbot11@cluster0.502g3.mongodb.net/Cluster0?retryWrites=true&w=majority"
 pprint "\nLOG GROUP ID: "; color_reset;  logger = "-1001690562496"
 pprint "\nPYROGRAM STRING SESSION OF ASSISTANT ACCOUNT: "; color_reset;  string_session = "BQCBp8J089Ns4UvlTUL-xjZaZLCtg5Y4JL1TYzUtaQZ0YOScvgD2qFVGIQJ5AXUNWJjPxktUBX0KXOReJWXV3E3HxhHgcKz7PJrJEMZ7juieWyGITZMzL8T7Sqr0s-L-GMB6k8V60xjhxLq2iMyHbaV5n7dHuA9hmWNcVFhN8Ygvs5JoZxeDgkhm4AvW2rW2U_DlfKNX_mLM7Gwt_WRjjIYUExpjjobrrAv2fnEaHzjPPODgc5EKRXZg3FwCxfpTp8lC-xXXalx8D7MLAIK1zrwLCCkL--Dn3YfNsBg-Y0w7NiIPZ93UrRQ61B6cRWeN2fnWBN0QKSqjWEFs-OcHgGQrd9uQywA"
